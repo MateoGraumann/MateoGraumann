@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**MateoGraumann/MateoGraumann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Ingeniería en Telecomunicaciones y trabajo como Full Stack Developer en una empresa de software. Me apasiona la tecnología y disfruto aprendiendo continuamente, especialmente en áreas relacionadas con la ciberseguridad.
 
-Here are some ideas to get you started:
+### 💻 Herramientas y tecnologías que utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Frontend:**
+- JavaScript
+- Bootstrap
+- Next.js
+- Alpine.js
+- Git & GitHub
+
+#### **Backend:**
+- Python
+- Django
+
+### 🌱 Actualmente:
+- Profundizando mis conocimientos en ciberseguridad.
+- Explorando nuevas tecnologías para mejorar mi flujo de trabajo como desarrollador.
+
+### 📫 Puedes contactarme en:
+- [Correo](matteograumann@gmail.com)
+
+---
+
+¡Gracias por pasarte por mi perfil! 🚀
