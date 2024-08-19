@@ -20,7 +20,7 @@ Soy un estudiante de Ingeniería en Telecomunicaciones y trabajo como Full Stack
 - Explorando nuevas tecnologías para mejorar mi flujo de trabajo como desarrollador.
 
 ### 📫 Puedes contactarme en:
-- [Correo](matteograumann@gmail.com)
+- 📧 matteograumann@gmail.com
 
 ---
 
