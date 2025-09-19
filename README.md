@@ -7,7 +7,7 @@ Soy un estudiante de Ingeniería en Telecomunicaciones y trabajo como Full Stack
 #### 🖥 Frontend:
 - JavaScript, TypeScript
 - Bootstrap, Tailwind
-- Next.js, Alpine.js
+- Next.js, Alpine.js, Astro, React
 - Git & GitHub
 
 #### 🗄 Backend:
