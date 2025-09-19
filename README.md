@@ -17,7 +17,8 @@ Soy un estudiante de Ingeniería en Telecomunicaciones y trabajo como Full Stack
 - 🚀 Full Stack Developer en Hoffentech
 - 🔐 Interés activo en ciberseguridad
 
-### 📫 Puedes contactarme en: - 📧 matteograumann@gmail.com
+### 📫 Puedes contactarme en: 
+📧 matteograumann@gmail.com
 
 🌐 [Mi Portfolio](https://mi-portfolio-brown.vercel.app/)  
 ---
