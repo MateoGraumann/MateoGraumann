@@ -1,26 +1,21 @@
-# ¡Hola! 👋
+Hi! I'm Mateo 👋
+I am a Telecommunications Engineering student and Full Stack Developer. Currently, I am focusing my career on Cybersecurity, combining my experience in networks and software development.
 
-Soy un estudiante de Ingeniería en Telecomunicaciones y trabajo como Full Stack Developer en una empresa de software. Me apasiona la tecnología y disfruto aprendiendo continuamente, especialmente en áreas relacionadas con la ciberseguridad.
+🛡️ Cybersecurity & Skills
+* Pentesting: Experience with tools like Nmap, Wireshark, and Burp Suite.
+* Secure Development: Building applications with Python (Django) and modern frontend frameworks (Next.js, React, Astro) using security best practices.
+* Low-Level: Knowledge of C for memory management and system understanding.
+* Networking: Solid foundations in protocols and network architecture from my engineering background.
 
-### 💻 Herramientas y tecnologías que utilizo
+🛠️ Tech Stack
+* Languages: JavaScript, TypeScript, Python, C.
+* Frontend: Next.js, React, Tailwind CSS, Astro, Alpine.js.
+* Backend: Django.
+* Tools: Git, GitHub, Linux.
 
-#### 🖥 Frontend:
-- JavaScript, TypeScript
-- Bootstrap, Tailwind
-- Next.js, Alpine.js, Astro, React
-- Git & GitHub
+🧠 Soft Skills
+* Problem-solving and analytical thinking.
+* Teamwork in agile environments.
+* Fast learner and adaptable to new technologies.
 
-#### 🗄 Backend:
-- Python, Django
-
-### 🌱 Actualmente:
-- 🚀 Full Stack Developer en Hoffentech
-- 🔐 Interés activo en ciberseguridad
-
-### 📫 Puedes contactarme en: 
-📧 matteograumann@gmail.com
-
-🌐 [Mi Portfolio](https://mi-portfolio-brown.vercel.app/)  
----
-
-¡Gracias por pasarte por mi perfil! 🚀
+📧 matteograumann@gmail.com | 🌐 [Portfolio](https://mi-portfolio-brown.vercel.app/)
