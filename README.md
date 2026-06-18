@@ -1,21 +1,15 @@
-Hi! I'm Mateo 👋
-I am a Telecommunications Engineering student and Full Stack Developer. Currently, I am focusing my career on Cybersecurity, combining my experience in networks and software development.
+# Hi! I'm Mateo Graumann 👋
 
-🛡️ Cybersecurity & Skills
-* Pentesting: Experience with tools like Nmap, Wireshark, and Burp Suite.
-* Secure Development: Building applications with Python (Django) and modern frontend frameworks (Next.js, React, Astro) using security best practices.
-* Low-Level: Knowledge of C for memory management and system understanding.
-* Networking: Solid foundations in protocols and network architecture from my engineering background.
+I’m a Telecommunications Engineering student and Full Stack Developer bridging the gap between network architecture, software development, and Cybersecurity. My focus is on understanding how systems communicate, how they break, and how to protect both the code and the infrastructure supporting them from the ground up.
 
-🛠️ Tech Stack
-* Languages: JavaScript, TypeScript, Python, C.
-* Frontend: Next.js, React, Tailwind CSS, Astro, Alpine.js.
-* Backend: Django.
-* Tools: Git, GitHub, Linux.
+Leveraging my engineering background, I approach both application development and network design with a defensive mindset. While I build full-stack apps with Python (Django) and modern frontend frameworks (Next.js, React, Astro) using secure coding practices, my true passion lies in **Network Security** and vulnerability analysis. I focus on securing network perimeters, analyzing traffic for anomalies, and auditing environments using tools like Nmap, Wireshark, and Burp Suite.
 
-🧠 Soft Skills
-* Problem-solving and analytical thinking.
-* Teamwork in agile environments.
-* Fast learner and adaptable to new technologies.
+I thrive on solving complex puzzles, adapting quickly to new environments, and finding new challenges that push me to learn faster and make the digital space more secure.
 
-📧 matteograumann@gmail.com | 🌐 [Portfolio](https://mi-portfolio-brown.vercel.app/)
+---
+
+## 📬 Contact & Connect
+
+* 📧 **Email:** matteograumann@gmail.com
+* 💼 **LinkedIn:** [Mateo Graumann](https://linkedin.com/in/mateo-graumann-b3b389244)
+* 🌐 **Portfolio:** [mi-portfolio-brown.vercel.app](https://mi-portfolio-brown.vercel.app/)
