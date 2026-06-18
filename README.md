@@ -1,4 +1,4 @@
-# Hi! I'm Mateo Graumann 👋
+# Hi! I'm Mateo 👋
 
 I’m a Telecommunications Engineering student and Full Stack Developer bridging the gap between network architecture, software development, and Cybersecurity. My focus is on understanding how systems communicate, how they break, and how to protect both the code and the infrastructure supporting them from the ground up.
 
